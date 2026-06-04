@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/INGEMINI/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/INGEMINI/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INGEMINI/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/INGEMINI/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INGEMINI/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/INGEMINI/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/INGEMINI/leetcode-solutions/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
