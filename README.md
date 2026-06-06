@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/INGEMINI/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
