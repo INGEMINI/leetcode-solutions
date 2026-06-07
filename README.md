@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/INGEMINI/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INGEMINI/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0141-linked-list-cycle](https://github.com/INGEMINI/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
@@ -89,4 +91,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/INGEMINI/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
