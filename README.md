@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INGEMINI/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/INGEMINI/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INGEMINI/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -95,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/INGEMINI/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -111,4 +113,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
