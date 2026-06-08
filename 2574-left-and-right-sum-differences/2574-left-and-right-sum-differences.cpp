@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
+        //mine
         vector<int>leftwale(nums.size(),0);
     vector<int>rightwale(nums.size(),0);
     vector<int>ans;
