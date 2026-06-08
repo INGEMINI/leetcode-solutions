@@ -30,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/INGEMINI/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/INGEMINI/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INGEMINI/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/INGEMINI/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/INGEMINI/leetcode-solutions/tree/master/0048-rotate-image) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/INGEMINI/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
