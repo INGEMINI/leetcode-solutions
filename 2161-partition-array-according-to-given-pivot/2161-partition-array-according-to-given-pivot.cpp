@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> pivotArray(vector<int>& nums, int pivot) {
+    vector<int> pivotArray(vector<int>& nums, int pivot) {//mine
         vector<int>less;
         vector<int>equal;
         vector<int>great;
