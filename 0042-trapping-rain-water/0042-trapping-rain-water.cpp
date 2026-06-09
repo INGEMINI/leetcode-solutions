@@ -1,6 +1,7 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
+        //mine
         int n = height.size();
         vector<int>rightmax(n,0),leftmax(n,0);
         leftmax[0]=height[0];
