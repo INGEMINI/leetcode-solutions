@@ -22,6 +22,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/INGEMINI/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/INGEMINI/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
