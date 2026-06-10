@@ -1,6 +1,6 @@
 // class Solution {
 // public:
-//     long long maxTotalValue(vector<int>& nums, int k) {
+//     long long maxTotalValue(vector<int>& nums, int k) {///abi tk sol ni dekha hai iska..dhyanse dekhlo ab
 //         //streakques
 //         //approach
 // //         binary search
