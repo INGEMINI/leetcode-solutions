@@ -19,6 +19,7 @@
 | [0735-asteroid-collision](https://github.com/INGEMINI/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/INGEMINI/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2104-sum-of-subarray-ranges](https://github.com/INGEMINI/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INGEMINI/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/INGEMINI/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -117,6 +118,7 @@
 | [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/INGEMINI/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/INGEMINI/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/INGEMINI/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
