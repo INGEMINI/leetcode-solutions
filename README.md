@@ -25,6 +25,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/INGEMINI/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,4 +156,13 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
