@@ -114,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/INGEMINI/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/INGEMINI/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/INGEMINI/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -131,10 +132,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/INGEMINI/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -150,5 +153,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
