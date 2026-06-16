@@ -39,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/INGEMINI/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/INGEMINI/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INGEMINI/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/INGEMINI/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
@@ -123,6 +124,7 @@
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/INGEMINI/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/INGEMINI/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/INGEMINI/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/INGEMINI/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
@@ -162,6 +165,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/INGEMINI/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/INGEMINI/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/INGEMINI/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
