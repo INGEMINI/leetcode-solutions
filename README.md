@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/INGEMINI/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/INGEMINI/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/INGEMINI/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2104-sum-of-subarray-ranges](https://github.com/INGEMINI/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/INGEMINI/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/INGEMINI/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [3689-maximum-total-subarray-value-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
