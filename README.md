@@ -62,6 +62,7 @@
 | [0735-asteroid-collision](https://github.com/INGEMINI/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INGEMINI/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/INGEMINI/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
