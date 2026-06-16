@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/INGEMINI/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/INGEMINI/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/INGEMINI/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/INGEMINI/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/INGEMINI/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/INGEMINI/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/INGEMINI/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/INGEMINI/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/INGEMINI/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/INGEMINI/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -165,6 +167,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/INGEMINI/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/INGEMINI/leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/INGEMINI/leetcode-solutions/tree/master/0455-assign-cookies) |
