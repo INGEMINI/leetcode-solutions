@@ -23,6 +23,7 @@
 | [0860-lemonade-change](https://github.com/INGEMINI/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/INGEMINI/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/INGEMINI/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/INGEMINI/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/INGEMINI/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INGEMINI/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/INGEMINI/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -146,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/INGEMINI/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/INGEMINI/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/INGEMINI/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
