@@ -125,6 +125,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/INGEMINI/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/INGEMINI/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/INGEMINI/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/INGEMINI/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -137,11 +138,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/INGEMINI/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
@@ -191,5 +194,6 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/INGEMINI/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
